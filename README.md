@@ -10,19 +10,22 @@ With the start of COVID in 2019, all Races decreased in their incomes in 2020 ac
 
 
 
-![alt text](https://github.com/[ekyi]/[data_in_Plotly]/blob/[branch]/Figure1.png?raw=true)
+![alt text](https://github.com/eintkyi/data_in_Plotly/blob/main/Figure1.png)
+*Figure 1* shows the raw data of medican income across Race by population (in thousands)
 
- *Access interactive plot here*: <https://chart-studio.plotly.com/~ekyi/35.embed>
+*Access interactive Figure 1 here*: <https://chart-studio.plotly.com/~ekyi/35.embed>
 
- *Figure 1* shows the raw data of medican income across Race by population (in thousands).
  
  
+ ---------------------------------------------------------------------------------------------------------
+
  
+ ![alt text](https://github.com/eintkyi/data_in_Plotly/blob/main/Figure2.png)
+ *Figure 2* shows the percentage of medican income across Race normalized by population (in thousands)
  
- ![alt text](https://github.com/[ekyi]/[data_in_Plotly]/blob/[branch]/Figure2.png?raw=true)
- *Access interactive plot here*: <https://chart-studio.plotly.com/~ekyi/37.embed>
+ *Access interactive Figure 2 here*: <https://chart-studio.plotly.com/~ekyi/37.embed>
  
-  *Figure 2* shows the percentage of medican income across Race normalized by population (in thousands).
+  
   
   
   
